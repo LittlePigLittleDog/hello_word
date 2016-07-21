@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"hellow word"<<endl;
+  system("pause");
+  return 0;
+}
